@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Azure DevOps Deplyoment on Webaap . . . . !";
+		return "Deplyoment on Webaap with Azure DevOps . . . . !";
 	}
 
 }
